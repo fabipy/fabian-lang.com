@@ -4,4 +4,6 @@ title: "About"
 permalink: /about/
 ---
 
-About page
+About me
+
+<img src="/images/about-me.png" class="inline"/>
