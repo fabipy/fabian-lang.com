@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "My first post"
-date: 2021-09-21 13:40:00 -0000
+title: "Vimium C"
+date: 2021-09-21 14:04:00 -0000
 categories: misc
 ---
 
-# This is a test
+# Vimium C
 
 ```python
 s = "Python syntax highlighting"
