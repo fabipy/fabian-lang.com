@@ -35,7 +35,7 @@ Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the t
 
 Other important shortcuts:
 - Switch to last active tab on same window (**^**)
-- Text box focus (**gi**) switch text box with tab
+- Text box focus (**gi**), switch text box with tab
 - Close tab (**x**)
 - Open recently closed tab (**X**, i.e. shift+x)
 - Open omnibar to search in same tab (**o**)
