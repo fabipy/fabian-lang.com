@@ -2,7 +2,7 @@
 layout: post
 title: "Navigate the Web faster with Vimium C"
 date: 2021-09-21 12:00:00 -0000
-categories: misc
+categories: web
 ---
 
 ## Navigate the Web faster with Vimium C
