@@ -19,3 +19,7 @@ Unemployed ok..
 - studium revue passieren (bzw. werdegang)
 - get into some topics
 - write about how i work
+- write about uni projects
+- how nlp has changed
+- what you learned at uni
+- what you are reading right now
