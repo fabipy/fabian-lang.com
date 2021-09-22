@@ -5,8 +5,6 @@ date: 2021-09-21 12:00:00 -0000
 categories: web
 ---
 
-## Navigate the Web faster with Vimium C
-
 Are you still using your keyboard and mouse to browse the web?
 What if there was a way to browse the web with only your keyboard while maintaining the same speed or even increasing productivity?
 
