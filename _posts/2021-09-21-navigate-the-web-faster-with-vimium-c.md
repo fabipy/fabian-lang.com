@@ -42,7 +42,7 @@ Other important shortcuts:
 - Open omnibar to search in new tab (**O**, i.e. shift+o)
 - There are many more, simply press **?** to show all available commands
 
-Also don't forget that it is possible to add a **number modifier** to many of these shortcuts, e.g. **3j** will scroll down three times, **3K** will jump three tabs to the left and **5x** will close 5 tabs.
+Also don't forget that it is possible to add a **number modifier** to many of these shortcuts, e.g. **3j** will scroll down three times, **3K** will jump three tabs to the right and **5x** will close 5 tabs.
 
 Additionally, if you want to be also able to use it for viewing PDFs in Chrome you can use this extension (<a href="https://chrome.google.com/webstore/detail/pdf-viewer-for-vimium-c/nacjakoppgmdcpemlfnfegmlhipddanj" target="_blank">PDF Viewer for Vimium C</a>). Vimium C is highly customizable. Just have a look at the extension setting and the (<a href="https://github.com/gdh1995/vimium-c/wiki" target="_blank">Wiki</a>
 
