@@ -28,7 +28,7 @@ Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the t
 - Open link with **f** (little pop-ups with letter combinations show up that you can enter to open a link)
 - Open link in new tab with **F**, i.e. shift+f
 - Open mulitple links in new tabs with **alt+F** 
-- Move tab left (**<<**) and right (**>>**)
+- Move tab left (**\<\<**) and right (**>>**)
 
 **Note**: You can also use **f** to focus on a text box or a certain area of the page for scrolling. This is sometimes indicated by red letters. I'd recommend you just play around with it and you will naturally learn how to optimally use it.
 
