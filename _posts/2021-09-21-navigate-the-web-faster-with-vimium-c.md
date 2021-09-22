@@ -10,7 +10,7 @@ categories: misc
 Are you still using your keyboard and mouse to browse the web?
 What if there was a way to browse the web with only your keyboard while maintaining the same speed or even increasing productivity?
 
-If you are already familiar with <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank">Vim</a> (Unix) you might have guessed that "Vimium" consists of the two words **Vim** and **Chromium**. 
+If you are already familiar with <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank">Vim</a> (Unix) you have probably guessed that the name Vimium is derived from it.
 
 For anyone who is not familiar with Vim: It is basically a free and open-source, highly customizable text editor. Just imagine a regular text editor on any device, but on steroids. You can learn some basic Vim with this <a href="https://www.openvim.com/" target="_blank">browser-based introduction</a>. Actually, even more experienced users might be able to learn something useful. At least for me this was the case.
 
