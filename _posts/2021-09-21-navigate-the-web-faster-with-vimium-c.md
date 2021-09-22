@@ -10,7 +10,7 @@ What if there was a way to browse the web with only your keyboard while maintain
 
 If you are already familiar with <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank">Vim</a> (Unix) you have probably guessed that the name Vimium derives from it.
 
-For anyone who is not familiar with Vim: It is basically a free and open-source, highly customizable text editor. Just imagine a regular text editor that can be found on any device, but on steroids. You can learn some basic Vim commands with this <a href="https://www.openvim.com/" target="_blank">browser-based introduction to Vim</a>. Actually, even more experienced users might be able to learn something useful. At least for me this was the case.
+For anyone who is not familiar with Vim: It is basically a free and open-source, highly customizable text editor. Just imagine a regular text editor that can be found on any device, but on steroids. You can learn some basic Vim commands with this <a href="https://www.openvim.com/" target="_blank">browser-based introduction to Vim</a>. Actually, even if you are a more experienced user you might be able to learn something new. At least for me this was the case.
 
 #### How does it work?
 
