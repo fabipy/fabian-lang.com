@@ -24,7 +24,7 @@ Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the t
 - Scroll down page (**d**) and up (**u**)
 - Scroll left (**h**) and right (**l**)
 - Move to top of page (**gg**) and bottom (**G**, i.e. shift+g)
-- Jump tab on the left (**J**) right tab (**K**)
+- Jump to tab on the left (**J**) right tab (**K**)
 - Open link with **f** (little pop-ups with letter combinations show up that you can enter to open a link)
 - Open link in new tab with **F**, i.e. shift+f
 - Open mulitple links in new tabs with **alt+F** 
