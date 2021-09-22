@@ -15,3 +15,7 @@ Unemployed ok..
 - learn the skills needed for a certain job
 - spend time with family and friends
 - take your time to find a job
+- start a blog
+- studium revue passieren (bzw. werdegang)
+- get into some topics
+- write about how i work
