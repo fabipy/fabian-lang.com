@@ -23,19 +23,20 @@ Let me show you my favourite (most used) keyboard shortcuts:
 - Scroll up (**j**) and down (**k**)
 - Scroll down page (**d**) and up (**u**)
 - Scroll left (**h**) and right (**l**)
+- Move to top of page (**g**) and bottom (**G**, i.e. shift+g)
 - Jump tab on the left (**J**) right tab (**K**)
 - Open link with **f** (little pop-ups with letter combinations show up that you can enter to open a link)
 - Open link in new tab with **F**, i.e. shift+f
 - Open mulitple links in new tabs with **alt+F** 
 - Move tab left (**<<**) and right (**>>**)
-- Close tab (**x**)
-- Open recently closed tab (**X**, i.e. shift+x)
-- Open omnibar to search in same tab (**o**)
-- Open omnibar to search in new tab (**O**, i.e. shift+o)
 
 Other important shortcuts:
 - Switch to last active tab on same window (**^**)
 - Text box focus (**gi**) switch text box with tab
+- Close tab (**x**)
+- Open recently closed tab (**X**, i.e. shift+x)
+- Open omnibar to search in same tab (**o**)
+- Open omnibar to search in new tab (**O**, i.e. shift+o)
 - There are many more, simply press **?** to show all available commands
 
 Also don't forget that it is possible to add the number modifier to many of these shortcuts, e.g. 3j will scroll down three times, 3K will jump three tabs to the left and 5x will close 5 tabs.
