@@ -32,6 +32,8 @@ Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the t
 
 **Note**: You can also use **f** to focus on a text box or to focus on a certain element on the page for scrolling.
 
+
+
 Other important shortcuts:
 - Switch to last active tab on same window (**^**)
 - Text box focus (**gi**) switch text box with tab
