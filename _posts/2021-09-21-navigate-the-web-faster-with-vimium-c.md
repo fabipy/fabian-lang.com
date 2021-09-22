@@ -16,16 +16,16 @@ For anyone who is not familiar with Vim: It is basically a free and open-source,
 
 #### How does it work?
 
-Now that we know what Vim is all about, how the heck are Vim functionalities supposed to help browsing the web? Vimium C is a browser extension (<a href="https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?hl=en" target="_blank">Chrome</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/vimium-c/">Firefox</a>) and once you installed it you can use the keyboard shortcuts on any website (don't worry you can also exclude websites in the settings!). 
+Now that we know what Vim is all about, how the heck are Vim functionalities supposed to help browsing the web? Vimium C is a browser extension (<a href="https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?hl=en" target="_blank">Chrome</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/vimium-c/">Firefox</a>) and once you installed it you can use the keyboard shortcuts on any website (don't worry, you can also exclude websites in the settings!). 
 
-Let me show you my favourite (most used) keyboard shortcuts:
+Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the time):
 
 - Scroll up (**j**) and down (**k**)
 - Scroll down page (**d**) and up (**u**)
 - Scroll left (**h**) and right (**l**)
 - Move to top of page (**g**) and bottom (**G**, i.e. shift+g)
 - Jump tab on the left (**J**) right tab (**K**)
-- Open link with **f** (little pop-ups with letter combinations show up that you can enter to open a link)
+- Open link with **f** (little pop-ups with letter combinations show up that you can enter to open a link) (**Note**: You can also use **f** to focus on a text box or to focus on a certain element on the page for scrolling.)
 - Open link in new tab with **F**, i.e. shift+f
 - Open mulitple links in new tabs with **alt+F** 
 - Move tab left (**<<**) and right (**>>**)
@@ -39,8 +39,8 @@ Other important shortcuts:
 - Open omnibar to search in new tab (**O**, i.e. shift+o)
 - There are many more, simply press **?** to show all available commands
 
-Also don't forget that it is possible to add the number modifier to many of these shortcuts, e.g. 3j will scroll down three times, 3K will jump three tabs to the left and 5x will close 5 tabs.
+Also don't forget that it is possible to add a **number modifier** to many of these shortcuts, e.g. **3j** will scroll down three times, **3K** will jump three tabs to the left and **5x** will close 5 tabs.
 
-Additionally, if you want to be also able to use it for viewing PDFs in Chrome you can use this extension (<a href="https://chrome.google.com/webstore/detail/pdf-viewer-for-vimium-c/nacjakoppgmdcpemlfnfegmlhipddanj" target="_blank">PDF Viewer for Vimium C</a>).
+Additionally, if you want to be also able to use it for viewing PDFs in Chrome you can use this extension (<a href="https://chrome.google.com/webstore/detail/pdf-viewer-for-vimium-c/nacjakoppgmdcpemlfnfegmlhipddanj" target="_blank">PDF Viewer for Vimium C</a>). Vimium C is highly customizable. Just have a look at the extension setting and the (<a href="https://github.com/gdh1995/vimium-c/wiki" target="_blank">Wiki</a>
 
 The best of all is that I even use it on my smartphone. The official chrome app doesn't support browser extensions, however there are alternatives on the app store that do. Simply download the Yandex or Kiwi browser to install the Vimium C extension and connect your bluetooth keyboard. Note: I tried both but the Yandex browser seems to work better (Android). I haven't tried it on Firefox for Mobile though. I also have to admit that there are a bunch of Vimium versions out there, but I haven't had the time to compare the different versions, yet.
