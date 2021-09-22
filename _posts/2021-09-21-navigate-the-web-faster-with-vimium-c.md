@@ -41,4 +41,6 @@ Other important shortcuts:
 
 Also don't forget that it is possible to add the number modifier to many of these shortcuts, e.g. 3j will scroll down three times, 3K will jump three tabs to the left and 5x will close 5 tabs.
 
-The best of all is that I even use it on my smartphone. The official chrome app doesn't support browser extensions, however there are alternatives on the app store that do. Simply download the Yandex or Kiwi browser to install the Vimium C extension and connect your bluetooth keyboard. Note: I tried both but the Yandex browser seems to work better (Android). I haven't tried it on Firefox for Mobile though.
+Additionally, if you want to be also able to use it for viewing PDFs in Chrome you can use this extension (<a href="https://chrome.google.com/webstore/detail/pdf-viewer-for-vimium-c/nacjakoppgmdcpemlfnfegmlhipddanj" target="_blank">PDF Viewer for Vimium C</a>).
+
+The best of all is that I even use it on my smartphone. The official chrome app doesn't support browser extensions, however there are alternatives on the app store that do. Simply download the Yandex or Kiwi browser to install the Vimium C extension and connect your bluetooth keyboard. Note: I tried both but the Yandex browser seems to work better (Android). I haven't tried it on Firefox for Mobile though. I also have to admit that there are a bunch of Vimium versions out there, but I haven't had the time to compare the different versions, yet.
