@@ -26,10 +26,11 @@ Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the t
 - Move to top of page (**g**) and bottom (**G**, i.e. shift+g)
 - Jump tab on the left (**J**) right tab (**K**)
 - Open link with **f** (little pop-ups with letter combinations show up that you can enter to open a link)
-**Note**: You can also use **f** to focus on a text box or to focus on a certain element on the page for scrolling.
 - Open link in new tab with **F**, i.e. shift+f
 - Open mulitple links in new tabs with **alt+F** 
 - Move tab left (**<<**) and right (**>>**)
+
+**Note**: You can also use **f** to focus on a text box or to focus on a certain element on the page for scrolling.
 
 Other important shortcuts:
 - Switch to last active tab on same window (**^**)
