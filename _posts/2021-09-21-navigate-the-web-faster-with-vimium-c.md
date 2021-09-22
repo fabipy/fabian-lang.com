@@ -20,7 +20,7 @@ Now that we know what Vim is all about, how the heck are Vim functionalities sup
 
 Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the time):
 
-- Scroll up (**j**) and down (**k**)
+- Scroll down (**j**) and up (**k**)
 - Scroll down page (**d**) and up (**u**)
 - Scroll left (**h**) and right (**l**)
 - Move to top of page (**g**) and bottom (**G**, i.e. shift+g)
