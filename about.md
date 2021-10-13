@@ -13,7 +13,8 @@ My name is Fabian and I studied Media and Computational Linguistics (also known 
 With my blog I intend to share some of my interests with you. I gradually work to improve the content and to provide more information / write new blog posts.
 
 Please share the content if you like it.
-Find me on [LinkedIn](https://www.linkedin.com/in/fabian-lang-0841ba220/) | [Twitter](https://twitter.com/langfab).
+
+[LinkedIn](https://www.linkedin.com/in/fabian-lang-0841ba220/) | [Twitter](https://twitter.com/langfab).
 
 This is me:
 
