@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hey Google, Can you search this on You.com instead?"
-date: 2021-09-24 12:00:00 -0000
+date: 2021-10-14 12:00:00 -0000
 categories: web
 ---
 
