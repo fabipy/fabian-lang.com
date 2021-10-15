@@ -30,7 +30,7 @@ Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the t
 - Open mulitple links in new tabs with **alt+f** 
 - Move tab left (**<<**) and right (**>>**)
 
-**Note**: You can also use **f** to focus on a text box or a certain area of the page for scrolling. This is sometimes indicated by red letters. I'd recommend you just play around with it and you will naturally learn how to optimally use it.
+**Note**: You can also use **f** to focus on a text box or another HTML element on the page (e.g. for scrolling). This is sometimes indicated by red letters. I'd recommend you just play around with it and you will naturally learn how to optimally use it.
 
 
 Other important shortcuts:
