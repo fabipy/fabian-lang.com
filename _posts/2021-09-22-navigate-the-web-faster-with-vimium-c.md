@@ -16,7 +16,7 @@ For anyone who is not familiar with Vim: It is basically a free and open-source,
 
 #### How does it work?
 
-Now that we know what Vim is all about, how the heck are Vim functionalities supposed to help browsing the web? Vimium C is a browser extension (<a href="https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?hl=en" target="_blank">Chrome</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/vimium-c/">Firefox</a>) and once you installed it you can use the keyboard shortcuts on any website (don't worry, you can also exclude websites in the settings!). 
+Now that we know what Vim is all about, how the heck are Vim functionalities supposed to help browsing the web? Vimium C is a browser extension (<a href="https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?hl=en" target="_blank">Chrome</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/vimium-c/">Firefox</a>) and once you installed it you can use Vimium's gamechanging keyboard shortcuts on any website (don't worry, you can also exclude websites in the settings!). 
 
 Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the time):
 
