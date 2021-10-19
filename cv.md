@@ -4,6 +4,6 @@ title: "CV"
 permalink: /cv/
 ---
 
-My CV: Page tbd..
+This page is under construction...
 
-In the meantime find me on [LinkedIn](https://www.linkedin.com/in/fabian-lang-0841ba220/) or [Twitter](https://twitter.com/langfab).
+In the meantime find me on [LinkedIn](https://www.linkedin.com/in/langfab/) or [Twitter](https://twitter.com/langfab).
