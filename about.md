@@ -14,7 +14,7 @@ With my blog I intend to share some of my interests with you. I gradually work t
 
 Please share the content if you like it.
 
-[LinkedIn](https://www.linkedin.com/in/fabian-lang-0841ba220/) | [Twitter](https://twitter.com/langfab)
+[LinkedIn](https://www.linkedin.com/in/langfab/) | [Twitter](https://twitter.com/langfab)
 
 This is me:
 
