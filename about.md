@@ -14,10 +14,6 @@ With my blog I intend to share some of my interests with you. I gradually work t
 
 Please share the content if you like it.
 
-[LinkedIn](https://www.linkedin.com/in/langfab/) | [Twitter](https://twitter.com/langfab)
-
-This is me:
-
-<img src="/images/about-me.png" class="inline"/>
+<a href="https://www.linkedin.com/in/langfab/" target="_blank">LinkedIn</a> | <a href="https://twitter.com/langfab" target="_blank">Twitter</a>
 
 Enjoy!
