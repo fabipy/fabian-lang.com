@@ -8,7 +8,7 @@ categories: web
 Are you still using your keyboard and mouse to browse the web?
 What if there was a way to browse the web with only your keyboard while maintaining the same speed or even increasing productivity?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t67Sn0RGK54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/t67Sn0RGK54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 If you are already familiar with <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank">Vim</a> (Unix) you have probably guessed that the name Vimium derives from it.
 
