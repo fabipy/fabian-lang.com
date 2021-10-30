@@ -23,7 +23,7 @@ Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the t
 I recommend you download the extension, refresh this page and try it out right away.
 
 - Scroll down (**j**) and up (**k**)
-- Scroll down page (**d**) and up (**u**)
+- Scroll down a page (**d**) and up a page (**u**)
 - Scroll left (**h**) and right (**l**)
 - Move to top of page (**gg**) and bottom (**G**, i.e. shift+g)
 - Jump to tab on the left (**J**) right tab (**K**)
