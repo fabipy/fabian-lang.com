@@ -34,7 +34,7 @@ I recommend you download the extension, refresh this page and try it out right a
 
 **Note**: You can also use **f** to focus on a text box or another HTML element on the page (e.g. for scrolling). I'd recommend you just play around with it and you will naturally learn how to optimally use it.
 
-<img src="https://github.com/fabipy/fabian-lang.com/blob/master/images/vimium.png">
+<img src="/images/vimium.png">
 
 Other important shortcuts:
 - Switch to last active tab on same window (**^**)
