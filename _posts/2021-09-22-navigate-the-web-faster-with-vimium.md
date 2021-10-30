@@ -8,7 +8,7 @@ categories: web
 Are you still using your keyboard and mouse to browse the web?
 What if there was a way to browse the web with only your keyboard while maintaining the same speed or even increasing productivity?
 
-<img src="https://addons.cdn.mozilla.net/user-media/previews/full/223/223516.png">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t67Sn0RGK54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 If you are already familiar with <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank">Vim</a> (Unix) you have probably guessed that the name Vimium derives from it.
 
@@ -32,6 +32,7 @@ Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the t
 
 **Note**: You can also use **f** to focus on a text box or another HTML element on the page (e.g. for scrolling). I'd recommend you just play around with it and you will naturally learn how to optimally use it.
 
+<img src="https://addons.cdn.mozilla.net/user-media/previews/full/223/223516.png">
 
 Other important shortcuts:
 - Switch to last active tab on same window (**^**)
@@ -41,8 +42,6 @@ Other important shortcuts:
 - Open omnibar to search in same tab (**o**)
 - Open omnibar to search in new tab (**O**, i.e. shift+o)
 - There are many more, simply press **?** to show all available commands
-
-<img src="https://addons.cdn.mozilla.net/user-media/previews/full/223/223489.png">
 
 Also don't forget that it is possible to add a **number modifier** to many of these shortcuts, e.g. **3j** will scroll down three times, **3K** will jump three tabs to the right and **5x** will close 5 tabs.
 
