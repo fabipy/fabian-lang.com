@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Navigate the Web faster with Vimium C"
+title: "Navigate the Web faster with Vimium"
 date: 2021-09-22 12:00:00 -0000
 categories: web
 ---
@@ -16,7 +16,7 @@ For anyone who is not familiar with Vim: It is basically a free and open-source,
 
 #### How does it work?
 
-Now that we know what Vim is all about, how the heck are Vim functionalities supposed to help browsing the web? Vimium C is a browser extension (<a href="https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?hl=en" target="_blank">Chrome</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/vimium-c/">Firefox</a>) and once you installed it you can use Vimium's game-changing keyboard shortcuts on any website (don't worry, you can also exclude websites in the settings!). 
+Now that we know what Vim is all about, how the heck are Vim functionalities supposed to help browsing the web? Vimium is a browser extension (<a href="https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb" target="_blank">Chrome</a>, <a href="https://addons.mozilla.org/de/firefox/addon/vimium-ff/">Firefox</a>) and once you installed it you can use Vimium's game-changing keyboard shortcuts on any website (don't worry, you can also exclude websites in the settings!). 
 
 Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the time):
 
@@ -30,7 +30,7 @@ Let me introduce you to my favourite keyboard shortcuts (that I use 90% of the t
 - Open mulitple links in new tabs with **alt+f** 
 - Move tab left (**<<**) and right (**>>**)
 
-**Note**: You can also use **f** to focus on a text box or another HTML element on the page (e.g. for scrolling). This is sometimes indicated by red letters. I'd recommend you just play around with it and you will naturally learn how to optimally use it.
+**Note**: You can also use **f** to focus on a text box or another HTML element on the page (e.g. for scrolling). I'd recommend you just play around with it and you will naturally learn how to optimally use it.
 
 
 Other important shortcuts:
@@ -46,6 +46,6 @@ Other important shortcuts:
 
 Also don't forget that it is possible to add a **number modifier** to many of these shortcuts, e.g. **3j** will scroll down three times, **3K** will jump three tabs to the right and **5x** will close 5 tabs.
 
-Additionally, if you want to be also able to use it for viewing PDFs in Chrome you can use this extension (<a href="https://chrome.google.com/webstore/detail/pdf-viewer-for-vimium-c/nacjakoppgmdcpemlfnfegmlhipddanj" target="_blank">PDF Viewer for Vimium C</a>). Vimium C is highly customizable. Just have a look at the extension settings and the <a href="https://github.com/gdh1995/vimium-c/wiki" target="_blank">Wiki</a>.
+Vimium is highly customizable. Just have a look at the extension settings and the <a href="https://github.com/gdh1995/vimium-c/wiki" target="_blank">Wiki</a>.
 
 **Bonus**: You can even use it on your smartphone. The official Chrome mobile app doesn't support browser extensions, however there are alternatives on the app store that do. Simply download the Yandex or Kiwi browser to install the Vimium C extension and connect your Bluetooth keyboard. This way you can seamlessly switch from browsing on your laptop to browsing on your phone with almost the same feel. I found it to be useful in situations in which I only had my phone and a keyboard with me (and a sore thumb). I tried both the Yandex and Kiwi browser, but the Yandex browser seems to be working better (Android). I haven't tried it on Firefox for Mobile though. I also have to admit that there are a bunch of Vimium versions out there, but I haven't had the time to compare the different versions.
