@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Welcome to my personal website!
 
-My name is Fabian and I studied Media and Computational Linguistics (also known as Natural Language Processing).
+My name is Fabian and I studied **Media science/Communications** and **Computational Linguistics** (also known as Natural Language Processing).
 
 <a href="https://en.wikipedia.org/wiki/Computational_linguistics" target="_blank">What is Computational Linguistics?</a>
 
