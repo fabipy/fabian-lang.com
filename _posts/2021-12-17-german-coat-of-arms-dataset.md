@@ -7,5 +7,5 @@ categories: data
 
 <a href="https://medium.com/@langfab/german-coat-of-arms-dataset-cdfaaa0aa7c6" target="_blank"><img src="/images/coat-of-arms-lowres.png"></a>
 
-Find the dataset and description in this Medium article:
+Find the dataset and description here:
 <a href="https://medium.com/@langfab/german-coat-of-arms-dataset-cdfaaa0aa7c6" target="_blank">https://medium.com/@langfab/german-coat-of-arms-dataset-cdfaaa0aa7c6</a>
