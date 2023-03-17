@@ -10,4 +10,4 @@ Find the article here:
 <a href="https://medium.com/@langfab/using-chatgpt-as-your-personal-language-learning-assistant-bdb03bef8565" target="_blank">https://medium.com/@langfab/using-chatgpt-as-your-personal-language-learning-assistant-bdb03bef8565</a>
 
 
-<a href="[https://www.youtube.com/watch?v=Gme2lw7xRfc](https://medium.com/@langfab/using-chatgpt-as-your-personal-language-learning-assistant-bdb03bef8565)" target="_blank"><img src="/images/chatgpt-lang-es1.png"></a>
+<a href="https://medium.com/@langfab/using-chatgpt-as-your-personal-language-learning-assistant-bdb03bef8565" target="_blank"><img src="/images/chatgpt-lang-es1.png"></a>
