@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Video Portrait – Data Science at DW"
-date: 2023-03-17 12:00:00 -0000
+date: 2023-03-17 10:00:00 -0000
 categories: datascience
 ---
 
